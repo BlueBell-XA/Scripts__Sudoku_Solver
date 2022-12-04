@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 ## Description
-Take a list.txt of unsolved sudoku puzzles and outputs the correctly solved puzzles to a text file.
+Take a blank_puzzles.txt of unsolved sudoku puzzles and outputs the correctly solved puzzles to a text file.
 
 ## Usage
 - Add any unsolved Sudoku puzzles in the blank puzzles text document in the example format. Zeros represent a blank space.
